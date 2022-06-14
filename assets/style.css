@@ -1,3 +1,33 @@
+:root{
+    --purple: rgb(30, 24, 40);
+    --pink: rgb(224, 76, 244);
+    --white: azure;
+}
+
+body {
+    background: var(--purple);
+}
+
+header {
+    background: var(--purple);
+
+}
+
+header p {
+    color: azure;
+}
+
+h1 {
+    background: var(--purple);
+    color: rgb(224, 76, 244);
+}
 
 
+footer {
+    color: var(--white);
+}
 
+
+.card {
+
+}
